@@ -1,6 +1,6 @@
 # bigcommerce-stencil-lifestyle
 
-UI Components for Bigcommerce LifeStyle Theme
+UI Components for BigCommerce LifeStyle Theme
 
 - **Performance** - results provided in milliseconds.
 - **Scalability** - SaaS software is hosted in Google Cloud.
