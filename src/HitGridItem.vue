@@ -117,7 +117,7 @@
                     <span
                       v-else-if="
                         item.inventory_tracking === 'product' &&
-                          item.inventory_level === 0
+                        item.inventory_level === 0
                       "
                     ></span>
                     <a
@@ -243,7 +243,7 @@ export default {
       compareList += ''
 
       // eslint-disable-next-line eqeqeq
-      return compareList.split(',').find(x => x == this.item.id)
+      return compareList.split(',').find((x) => x == this.item.id)
     }
   }
 }
